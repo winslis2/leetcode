@@ -11,7 +11,7 @@ public class TwoSum {
     @Test
     public void test() {
         int[] ints = new int[]{2, 4, 7, 10};
-        int[] ints1 = twoSumHash(ints, 14);
+        int[] ints1 = twoSumHash(ints, 11);
         System.out.println(Arrays.toString(ints1));
     }
     //两数只和 https://leetcode-cn.com/problems/two-sum/
