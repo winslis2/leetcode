@@ -11,3 +11,4 @@
 - 2020.12.21 [去除重复字母](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/RemoveDuplicateLetters.java)
 - 2020.12.22 [使用最小花费爬楼梯](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MinCostClimbingStairs.java)
 - 2020.12.23 [字符串中第一个唯一字符](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/FristUniqChar.java)
+- 2020.12.24 [糖果分发](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/Candy.java)
