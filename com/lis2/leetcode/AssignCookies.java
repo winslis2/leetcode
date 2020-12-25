@@ -44,6 +44,7 @@ public class AssignCookies {
         return 0;
     }
 
+
     public int findContentChildren1(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
@@ -61,4 +62,7 @@ public class AssignCookies {
         }
         return i; //返回孩子
     }
+
+    //贪心算法（英語：greedy algorithm），又称贪婪算法，是一种在每一步选择中都采取在当前状态下最好或最优（即最有利）的选择，
+    // 从而希望导致结果是最好或最优的算法。
 }
