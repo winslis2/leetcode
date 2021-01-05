@@ -17,3 +17,5 @@
 - 2020.12.29 [买卖股票的最佳时机IV](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MixProfit.java) ```未完成```
 - 2020.12.30 [最后一块石头的重量](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/LastStoneWeigh.java) 
 - 2020.12.31 [无重叠区间](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/EraseOverlapIntervals.java) 
+- 2021.01.04 [斐波那契数](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/EraseOverlapIntervals.java) 
+- 2021.01.05 [凑零钱](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/CoinChange.java) ```不是很理解```
