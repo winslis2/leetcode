@@ -2,7 +2,6 @@ package com.lis2.leetcode;
 
 import org.junit.Test;
 
-import java.lang.constant.DynamicConstantDesc;
 import java.util.Arrays;
 
 public class MinCostClimbingStairs {
