@@ -36,6 +36,7 @@ public class TwoSum {
             if (hashTable.containsKey(target-nums[i])) {
                 return new int[]{hashTable.get(target-nums[i]), i};
             }
+            //求的是下标，所以把下标当做值好点
             hashTable.put(nums[i],i);
         }
         return new int[0];
