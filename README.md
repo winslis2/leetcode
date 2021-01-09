@@ -22,4 +22,5 @@
 - 2021.01.06 [较大分组的位置](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/LargeGroupPositions.java)
 - 2021.01.08 [旋转数组](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/Rotate.java)
 - 2021.01.09 [最长不含重复字符的子字符串](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/LengthOfLongestSubstring.java)
+- 2021.01.09 [数组中重复的数字](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/FindRepeatNumber.java)
 
