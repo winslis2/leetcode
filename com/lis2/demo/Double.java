@@ -6,5 +6,6 @@ public class Double {
     @Test
     public void test() {
         double e = Math.E;
+
     }
 }
