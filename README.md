@@ -24,4 +24,6 @@
 - 2021.01.09 [最长不含重复字符的子字符串](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/LengthOfLongestSubstring.java)
 - 2021.01.09 [数组中重复的数字](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/FindRepeatNumber.java)
 - 2021.01.11 [剑指 Offer 04. 二维数组中的查找](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/FindNumberIn2DArray.java)
+- 2021.01.12 [剑指 Offer 05. 替换空格](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ReplaceSpace.java)
+- 2021.01.13 [剑指 Offer 06. 从尾到头打印链表](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ReversePrint.java)
 
