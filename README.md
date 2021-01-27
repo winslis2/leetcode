@@ -27,4 +27,6 @@
 - 2021.01.12 [剑指 Offer 05. 替换空格](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ReplaceSpace.java)
 - 2021.01.13 [剑指 Offer 06. 从尾到头打印链表](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ReversePrint.java)
 - 2021.01.14 [1018. 可被 5 整除的二进制前缀](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/PrefixesDivBy5.java)
+- 2021.01.26 [移除零](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MoveZeroes.java)
+- 2021.01.26 [三数之和](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ThreeNum.java)
 
