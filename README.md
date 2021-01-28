@@ -29,4 +29,5 @@
 - 2021.01.14 [1018. 可被 5 整除的二进制前缀](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/PrefixesDivBy5.java)
 - 2021.01.26 [移除零](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MoveZeroes.java)
 - 2021.01.26 [三数之和](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ThreeNum.java)
+- 2021.01.28 [盛最多水的容器](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MaxArea.java)
 
