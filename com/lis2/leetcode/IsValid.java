@@ -10,7 +10,7 @@ public class IsValid {
     @Test
     public void test() {
         String s = "()";
-        System.out.println(isValid(s));
+        System.out.println(isValid1(s));
     }
 
     //https://leetcode-cn.com/problems/valid-parentheses/
@@ -36,5 +36,26 @@ public class IsValid {
         }
         }
         return characters.isEmpty();
+    }
+
+    //国际站大神做法
+    public boolean isValid1(String s) {
+        if (s.length() % 2 == 1) {
+            return false;
+        }
+        LinkedList<Character> stack = new LinkedList<>();
+        for (char ch:s.toCharArray()) {
+            if (ch == '('){
+                stack.push(')');
+            }else if(ch == '{'){
+                stack.push('}');
+            }else if (ch == '[') {
+                stack.push(']');
+            }else if (stack.isEmpty() || stack.pop() != ch){
+                return false;
+            }
+        }
+        return stack.isEmpty();
+
     }
 }
