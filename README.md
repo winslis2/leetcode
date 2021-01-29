@@ -30,4 +30,5 @@
 - 2021.01.26 [移除零](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MoveZeroes.java)
 - 2021.01.26 [三数之和](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/ThreeNum.java)
 - 2021.01.28 [盛最多水的容器](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MaxArea.java)
+- 2021.01.29 [有效的括号](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/isValid.java)
 
