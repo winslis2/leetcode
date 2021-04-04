@@ -32,4 +32,5 @@
 - 2021.01.28 [盛最多水的容器](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/MaxArea.java)
 - 2021.01.29 [有效的括号](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/isValid.java)
 - 2021.02.22 [快乐树](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/HappyTree.java)
+- 2021.04.04 [森林中的兔子](https://github.com/winslis2/leetcode/blob/main/com/lis2/leetcode/NumRabbites.java)
 
